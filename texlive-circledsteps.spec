@@ -1,6 +1,6 @@
 Name:		texlive-circledsteps
-Version:	63255
-Release:	2
+Version:	67889
+Release:	1
 Summary:	Typeset circled numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/circledsteps
